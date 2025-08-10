@@ -1,1 +1,9 @@
-Doing some things in our daily life seems boring,but,we can't afford to skip that also,To  make it work continuosly we have to create systems out of it,Personal finance is the one of the things as I mentioned earlier,Having Dashboard like this,will make you track your finances better.
+Think about having an automatic process where you just refresh the dashboard to instantly get a complete glimpse of your overall finances.
+
+This Personal Finance Dashboard makes tracking money visual, interactive, and even fun.
+
+It can be fully personalized as per client requirements, making it adaptable to different needs.
+
+Currently, this is a beta version, open for feedback and improvements.
+
+The goal is simple — give you control over your money so it never controls you.
