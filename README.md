@@ -1,0 +1,1 @@
+Doing some things in our daily life seems boring,but,we can't afford to skip that also,To  make it work continuosly we have to create systems out of it,Personal finance is the one of the things as I mentioned earlier,Having Dashboard like this,will make you track your finances better.
